@@ -9,6 +9,8 @@ items:
         href: web/static.md
       - name: Cайт на LAMP- или LEMP-стеке
         href: web/lamp-lemp.md
+      - name: Перенос сайта WordPress
+        href: web/wp-migration.md
       - name: >-
           Отказоустойчивый сайт с балансировкой нагрузки через Yandex Load
           Balancer

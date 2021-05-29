@@ -2,6 +2,7 @@
 
 * [{#T}](static.md)
 * [{#T}](lamp-lemp.md)
+* [{#T}](wp-migration.md)
 * [{#T}](load-balancer-website.md)
 * [{#T}](dns-load-balancer.md)
 * [{#T}](joomla-postgresql.md)
